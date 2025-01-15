@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>First Post</title>
+      <link href="/2025/01/15/First-Post/"/>
+      <url>/2025/01/15/First-Post/</url>
+      
+        <content type="html"><![CDATA[<h2 id="错误记录"><a href="#错误记录" class="headerlink" title="错误记录"></a>错误记录</h2><ol><li>Could not find artifact mysql:mysql-connector-java:pom:unknown in centra</li><li>github 链接超时</li></ol><h2 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h2><ol><li><p>在Pom.xml中指定MySQL的版本</p></li><li><pre><code class="language-powershell"> git config --global http.proxy socks5://192.168.3.52:65533</code></pre></li></ol>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> first post </tag>
+            
+            <tag> solutions </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
